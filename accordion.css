@@ -29,7 +29,7 @@ button.accordion {
 
 /* Focus style for accessibility */
 button.accordion:focus {
-  outline: 3px solid #0078d4;
+  outline: 3px solid #00008B;
   outline-offset: 2px; /* Moves the outline slightly outside the button to prevent clipping */
 }
 
